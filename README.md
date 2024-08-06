@@ -2,3 +2,4 @@
 Prvi testni repozitorij na praksi u firmi Elpos.
 Prva promjena u ovom repozitoriju.
 I evo druge promjene.
+Evo promjene napravljene online.
