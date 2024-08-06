@@ -9,4 +9,4 @@ Jedna promjena za demonstraciju pulla.
 Promjena u develop grani.
 Druga promjena.
 
-3-way na mainu.
+3-way
